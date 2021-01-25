@@ -1,0 +1,59 @@
+#Navbar{
+    flex-direction: column;
+    height: inherit;
+    padding-bottom: 10px;
+    width: 99%;
+}
+.navbar_box1{
+    flex-direction: column;
+}
+.navbar_box2{
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 15px;
+    
+}
+.subcontainer_2 img {
+    width: 110px;
+    height: 110px;
+}
+footer{
+    text-align: center;
+    height: inherit;
+}
+.subcontainer_1{
+    width: 97.7%;
+    justify-content: center;
+}
+.sub_1_inside {
+    width:90%;
+    text-align: center;
+    padding-bottom: 25px;
+}
+#Container{
+    height: 400px;
+}
+.subcontainer_2{
+    text-align: center;
+}
+.cards{
+    margin: 20px;
+}
+.items{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.items li{
+    margin: 8px;
+}
+.nav_item a{
+    font-size: 18px;
+} 
+
+
+
+#Container{
+    flex-direction: column-reverse;
+}

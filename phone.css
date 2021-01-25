@@ -1,0 +1,20 @@
+.container2_2{
+    flex-wrap: wrap;
+    margin-top: 24px;
+}
+.container2{
+    height: inherit;
+}
+footer{
+    margin-top: 62px;
+}
+.subcontainer_1{
+    width: 60%;
+}
+.subcontainer_1_inside{
+    width: 55%;
+}
+.nav_item a{
+    padding: 0px 15px;
+    font-size: 16px;
+}
